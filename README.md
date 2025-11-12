@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]  
+# 👋 Hey there, I'm [Rouchedaane]  
 
 💻 Developer | ⚡ Automation Enthusiast | 📊 Trader  
 
