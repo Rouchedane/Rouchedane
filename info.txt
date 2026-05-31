@@ -1,0 +1,26 @@
+Nom: ALASSANE
+Prenom: EL-ROUCHE-DAANE
+Profil: Developpeur fullstack | Devops
+Email: rouchdanealassane@gmail.com
+Linkedin: https://www.linkedin.com/in/el-rouche-daane-alassane-900361199
+
+technologies:  
+- React
+- Node.js
+- Docker
+- Kubernetes
+- AWS
+- GCP
+- Azure
+- Jenkins
+- Git
+- Github
+- Gitlab
+- Bitbucket
+- PHP
+- Laravel
+- Symfony
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
